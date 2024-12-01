@@ -1,1 +1,1 @@
-# predictor_salary
+# Salary-Prediction-Project
