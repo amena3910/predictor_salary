@@ -17,7 +17,7 @@ lb_edlevel=data["lb_edlevel"]
 
 
 def show_predict_page():
-    st.title("Data Scientist Annual Salary prediction")
+    st.title("Annual Salary prediction of AI Related Jobs")
 
     st.write("""### We need some information to predict""")
 
