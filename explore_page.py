@@ -65,9 +65,7 @@ survey = load_data()
 def show_explore_page():
     st.title("Annual  Salary Prediction of AI Jobs")
 
-    st.write("""
-    ### Stack Overflow Developer Survey 2022
-    """)
+   
 
     # Visualize the number of data points from different countries
     data = survey['Country'].value_counts()
