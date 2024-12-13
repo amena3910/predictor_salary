@@ -63,7 +63,7 @@ survey = load_data()
 
 # Main page for exploring data
 def show_explore_page():
-    st.title("Data Scientist Salary Prediction")
+    st.title("Annual  Salary Prediction of AI Jobs")
 
     st.write("""
     ### Stack Overflow Developer Survey 2022
